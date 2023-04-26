@@ -28,6 +28,4 @@ export class CartService {
       '/assets/shipping.json'
     );
   }
-
-  constructor() {}
 }
